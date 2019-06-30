@@ -16,7 +16,7 @@
         node {
           id
           title
-          date (format: "YYYY")
+          date
           path
         }
       }
